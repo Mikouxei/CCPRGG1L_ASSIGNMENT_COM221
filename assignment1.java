@@ -1,8 +1,7 @@
 
-class helloWorld {
-    public static void main(String[] args) {
-        String helloWorld = "Hello, World!";
-        System.out.println(helloWorld);
+public class App {
+    public static void main(String[] args) throws Exception{
+        System.out.println("Hello, World!");
 
     }
 }
