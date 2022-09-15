@@ -7,7 +7,7 @@ public class App {
 
     public static void main(String[] args) {
         
-        //New Scanner
+        // New Scanner
         order();
 
         // Close scanner
