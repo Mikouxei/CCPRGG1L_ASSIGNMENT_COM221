@@ -61,6 +61,7 @@ public class Exercise {
         System.out.println("\n5. SUM OF PATTERN 5: ");
 
         sum5 = 0;
+        
         for (i = 0; i < mdArray.length; i++) {
             for (j = 0; j < mdArray.length; j++) {
                 if (i == 2 && j == 2) {
@@ -80,6 +81,7 @@ public class Exercise {
         System.out.println("\n6. SUM OF PATTERN 6: ");
 
         sum6 = 0;
+        
         for (i = 0; i < mdArray.length; i++) {
             for (j = 0; j < mdArray[0].length; j++) {
                 if (i == 3 && j == 3) {
